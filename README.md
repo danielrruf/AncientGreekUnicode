@@ -18,15 +18,16 @@ In the table, the following information is provided:
     Column 5: The codepoints corresponding to each of the characters forming this composite sign
     Column 6: the same codepoints as in the previous column, in hexadecimal notation
     Column 7: The representation of this character in Beta Code
-    Column 8: Description of the character using the English name of the letter and the following terms 
-    to describe the diacritics (as in modern Greek): "uppercase, lowercase" for capital or small letter; 
-    "psili and dasia" for spiritus lenis or asper; "oxia, varia, or perispomeni" for the acute, grave, or circumflex accents; 
-    "hypogegrammeni" for the subscript (iota); "dialytika" for the diaeresis mark, "long_sign, "+short_sign" 
-    for the symbol indicating the vowel as short or long.
+    Column 8: Description of the character using the English name of the letter and the following 
+    terms to describe the diacritics (as in modern Greek): "uppercase, lowercase" for capital 
+    or small letter; "psili and dasia" for spiritus lenis or asper; "oxia, varia, or perispomeni" 
+    for the acute, grave, or circumflex accents; "hypogegrammeni" for the subscript (iota); 
+    "dialytika" for the diaeresis mark, "long_sign, "+short_sign" for the symbol indicating 
+    the vowel as short or long.
 
 ![Captura de pantalla 2023-12-14 a las 21 16 11](https://github.com/danielrruf/AncientGreekUnicode/assets/138609959/c48f7654-7654-401b-959e-42ca4956a731)
 
-##CONTACT INFO:
+## CONTACT INFO:
 
 Daniel Riaño Rufilanchas
 
