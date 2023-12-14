@@ -19,6 +19,9 @@ En la tabla aparece la siguiente información:
     Columna 7 BetaCode: La representación de este carácter en Beta Code
     Columna 8 Description: Descripción del carácter usando (como hace el estándar Unicode) el nombre inglés de la letra y los siguientes términos para describir los diacríticos (como en griego moderno): "uppercase, lowercase" para mayúscula o minúscula; psili y dasia para el espíritu suave o áspero; "oxia, varia o perispomeni" para los acentos agudo, grave o circunflejo; "hypogegrammeni" para la (iota) suscrita; "dialytika" para el signo que marca la diéresis, "long_sign, "+short_sign" para el signo que marca la vocal como breve o larga.
 
+![Captura de pantalla 2023-12-14 a las 21 16 11](https://github.com/danielrruf/AncientGreekUnicode/assets/138609959/f7c60773-641d-4247-8831-53a8a6fac449)
+
+
 ## ENGLISH VERSION
 
 In this table, I present the Unicode character for all potential combinations (in theory) of Greek alphabet letters with the diacritics used in transcribing ancient literary Greek: spiritus lenis or asper, accent (acute, grave, or circumflex), diaeresis, and iota subscript or adscript, in addition to the symbols for short and long with the simple vowel. The table's purpose is to assist those seeking any combination of these signs and **to promote the use of the most appropriate characters for writing ancient Greek**, which are found in the "Basic Multilingual Plane> Block: Greek Extended" (U+1F00-U+1FFF).
@@ -37,3 +40,6 @@ In the table, the following information is provided:
     Column 6 composed_char_codepoints_hexa: the same codepoints as in the previous column, in hexadecimal notation
     Column 7 BetaCode: The representation of this character in Beta Code
     Column 8 Description: Description of the character using (as does the Unicode standard) the English name of the letter and the following terms to describe the diacritics (as in modern Greek): "uppercase, lowercase" for capital or small letter; "psili and dasia" for spiritus lenis or asper; "oxia, varia, or perispomeni" for the acute, grave, or circumflex accents; "hypogegrammeni" for the subscript (iota); "dialytika" for the diaeresis mark, "long_sign, "+short_sign" for the symbol indicating the vowel as short or long.
+
+![Captura de pantalla 2023-12-14 a las 21 16 11](https://github.com/danielrruf/AncientGreekUnicode/assets/138609959/c48f7654-7654-401b-959e-42ca4956a731)
+
