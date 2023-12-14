@@ -11,7 +11,7 @@ I also provide the **correspondence with the Beta Code format** (used, for examp
 
 In the table, the following information is provided:
 
-    Column 1: The ancient Greek character in the most recommended Unicode encoding.
+    **Column 1**: The ancient Greek character in the most recommended Unicode encoding.
     Column 2: A unique numerical value assigned to each character in the Unicode standard.
     Column 3: the same value in hexadecimal notation.
     Column 4: The character, composed of as many signs and diacritics as it contains.
